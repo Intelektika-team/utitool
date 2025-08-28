@@ -1,6 +1,10 @@
 # Utitool
 
 [![License](https://img.shields.io/badge/license-MIT.0-blue.svg)](LICENSE)
+
+<img width="638" height="535" alt="Снимок экрана 2025-08-04 в 01 41 56" src="https://github.com/user-attachments/assets/c22993fd-4651-45c8-84a1-607b5dc0b521" />
+
+
 # What is utitool -
 This is a new utility for any user for any range of tasks -
 From utitool you can open applications, sys admins can check the computer directly from it, any developer can write an additional script (for scripts you can download the template using *scri sample*) and easily integrate it into the utility.
