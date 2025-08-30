@@ -1,4 +1,4 @@
-# Utitool
+# Utitool | Intelektika-pt
 
 [![License](https://img.shields.io/badge/license-MIT.0-blue.svg)](LICENSE)
 
