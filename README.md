@@ -5,22 +5,22 @@
 <img width="638" height="535" alt="Снимок экрана 2025-08-04 в 01 41 56" src="https://github.com/user-attachments/assets/c22993fd-4651-45c8-84a1-607b5dc0b521" />
 
 
-# What is utitool -
+# ⁉️ What is utitool -
 This is a new utility for any user for any range of tasks -
 From utitool you can open applications, sys admins can check the computer directly from it, any developer can write an additional script (for scripts you can download the template using *scri sample*) and easily integrate it into the utility.
 
 
-# Why exactly she -
+# ❔ Why exactly that -
 First, writing scripts. Thanks to them, you can optimize any task and add your own functionality that you need specifically. Scripts are written easily - according to a template. The pattern can be set using the command - scri sample
 The template appears in the scripts folder of the program in the derrictory. With one command, you can install an official plugin, or download the plugin from the community and simply move it to the scripts folder, after which it will be immediately available for use.
 
 
-# Installation -
+# 💻 Installation -
 - Download the zip archive of this derrictory and upload it to any free folder.
 - The application is ready for use - run the utitool file (the only file without extensions) and start using it right away.
 
 
-# First entry into the utility -
+# 🚀 First entry into the utility -
 The first time you enter the program, it will automatically create a configuration file on the system that will assign you the *user* username and administrator password 1234. After the first access to the application, we advise you to follow the instructions -
 Enter these commands to obtain administrator rights -
 ``` utitool
@@ -59,7 +59,7 @@ After that, the configuration of the utility can be completed, now it is complet
 
 
 
-# Script System
+# ⚙️ Script System
 Write extensions in Python/Swift:
 1. Set pattern: 'scri sample'
 2. Edit 'scripts/script _ sample.py'
