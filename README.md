@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT.0-blue.svg)](LICENSE)
 
-<img width="638" height="535" alt="Снимок экрана 2025-08-04 в 01 41 56" src="https://github.com/user-attachments/assets/c22993fd-4651-45c8-84a1-607b5dc0b521" />
+<img width="638" height="535" alt="screenshot" src="https://github.com/user-attachments/assets/c22993fd-4651-45c8-84a1-607b5dc0b521" />
 
 
 # ⁉️ What is utitool -
@@ -84,3 +84,6 @@ print("No valid command provided.")
 ### All work with scripts takes place through 2 commands -
 scri [name] - script installation
 scr [name] [arguments] to run
+
+
+**Intelektika-pt - 2025 - License MIT**
